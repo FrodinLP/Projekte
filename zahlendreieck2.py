@@ -14,5 +14,5 @@ def print_number_triangle(row):
         # Füge eine neue Zeile hinzu, um zur nächsten Zeile zu wechseln.
         print()
 
-# Beispielaufruf: Erstelle ein Dreieck mit 4 Zeilen.
+# Aufruf: Erstelle ein Dreieck mit 4 Zeilen.
 print_number_triangle(4)
