@@ -8,7 +8,7 @@ kapazitaet_pro_lkw = 75
 
 # Berechnung, wie oft der LKW fahren muss
 # (// für Ganzzahl)
-anzahl_fahrten = gesamt_kisten // kapazitaet_pro_lkw
+anzahl_fahrten = gesamt_kisten // kapazitaet_pro_lkw +1
 
 # Berechnung, wie viele Kisten in der letzten Lieferung dabei sind
 # (% für den Rest)
